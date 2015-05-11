@@ -36,7 +36,7 @@ This is the summary of my book.
 ဒီပုံထဲက wiki အတြက္ဆိုရင္ 
 
 
-![Sample Section](./img/example_session.png "Sample Section")
+![Sample Section](../blob/master/img/example_session.png "Sample Section")
 
 
 ```markdown
@@ -82,6 +82,8 @@ Code Block အတြက္ စာသားမ်ား ၾကားညွပ္�
 
 	sudo apt-get update
 	sudo apt-get upgrade
+
+ဒါေတြက နမူနာပဲ ျဖစ္ပါတယ္။ အေသးစိတ္ကို [ဒီမွာ ၾကည့္ပါ။](../blob/master/MARKDOWN.md)
 
 ###ေရးၿပီးသားမ်ား Update ျပဳလုပ္ရန္
 
