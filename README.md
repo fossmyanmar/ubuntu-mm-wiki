@@ -36,7 +36,7 @@ This is the summary of my book.
 ဒီပုံထဲက wiki အတြက္ဆိုရင္ 
 
 
-![Sample Section](../blob/master/img/example_session.png "Sample Section")
+![Sample Section](./blob/master/img/example_session.png "Sample Section")
 
 
 ```markdown
@@ -48,7 +48,7 @@ Ubuntu Wiki - Ubuntu Myanmar LoCo Team
     * [3.1 Nautilus](section3/3.1Nautilus.md)
 * [4 Desktop Add-ons](section4/README.md)
     * [4.1 Gnome Eye-Candy Resources](section4/4.1Gnome_Eye-Candy_Resources.md)
-    *[4.2 Ubuntu Wallpaper](section4/4.2Ubuntu_Wallpaper.md)
+    * [4.2 Ubuntu Wallpaper](section4/4.2Ubuntu_Wallpaper.md)
 ```
 
 
@@ -83,7 +83,7 @@ Code Block အတြက္ စာသားမ်ား ၾကားညွပ္�
 	sudo apt-get update
 	sudo apt-get upgrade
 
-ဒါေတြက နမူနာပဲ ျဖစ္ပါတယ္။ အေသးစိတ္ကို [ဒီမွာ ၾကည့္ပါ။](../blob/master/MARKDOWN.md)
+ဒါေတြက နမူနာပဲ ျဖစ္ပါတယ္။ အေသးစိတ္ကို [ဒီမွာ ၾကည့္ပါ။](./blob/master/MARKDOWN.md)
 
 ###ေရးၿပီးသားမ်ား Update ျပဳလုပ္ရန္
 
