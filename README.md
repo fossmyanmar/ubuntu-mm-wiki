@@ -47,5 +47,5 @@ Code Block အတြက္ စာသားမ်ား ၾကားညွပ္�
 
 	git status
 	git add --all
-	git commit -a -m "member add"
+	git commit -a -m "My Blah Blah Session Add"
 	git push origin master
