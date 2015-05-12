@@ -152,11 +152,11 @@ Code Block အတြက္ စာသားမ်ား ၾကားညွပ္�
 ```markdown
 # Summary
 
-* [3 File Managers ](section3/README.md)
-    * [3.1 Nautilus](section3/3.1Nautilus.md)
-* [4 Desktop Add-ons](section4/README.md)
-    * [4.1 Gnome Eye-Candy Resources](section4/4.1Gnome_Eye-Candy_Resources.md)
-    * [4.2 Ubuntu Wallpaper](section4/4.2Ubuntu_Wallpaper.md)
+* [3 File Managers ](3_File_Managers/README.md)
+    * [3.1 Nautilus](3_File_Managers/3.1Nautilus.md)
+* [4 Desktop Add-ons](4_Desktop_Add-ons/README.md)
+    * [4.1 Gnome Eye-Candy Resources](4_Desktop_Add-ons/4.1Gnome_Eye-Candy_Resources.md)
+    * [4.2 Ubuntu Wallpaper](4_Desktop_Add-ons/4.2Ubuntu_Wallpaper.md)
 ```
 
 ####Github ေပၚသို႔ Upload / Update ျပဳလုပ္ရန္
