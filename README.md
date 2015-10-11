@@ -96,17 +96,15 @@ git ကို install ျပဳလုပ္ပါ။
 
 မိမိစက္တြင္ Git ကို install လုပ္ပီးသြားပီ၊ Github account လဲ ဖြင့္ပီးသြားပီဆိုပါက [Foss Myanmar](https://github.com/fossmyanmar) ေအာက္ရွိ မိမိကူညီလိုေသာ repo ကိုသြားၿပီး ေအာက္ပါပံုအတိုင္း Fork အရင္ဦးဆံုးျပဳလုပ္ေပးရပါမည္။
 
-![Fork](/screenshots/fork.png?raw=true "Fork")
+![How to fork](http://s4.postimg.org/br8ilzhi5/fork.png "Fork")
 
 အကယ္၍ အရင္က ဝင္ေရာက္ကူညီဖူးခဲ့ေသာ github organization မ်ားရွိပါက ေအာက္ပါပံုအတိုင္း account ေရြးခိုင္းမည္ျဖစ္ပါသည္။
 
-![Select](/screenshots/select_account.png?raw=true "Select Account")
+![Select Account](http://s29.postimg.org/w70i99bw7/select_account.png "Select Account")
 
 Fork လုပ္ပီးပါက မိမိကိုယ္ပိုင္အေကာင့္ႏွင့္ fork လုပ္လိုက္ေသာ repo ကိုရရွိမည္ျဖစ္ပါသည္။ ေအာက္ပါပံုတြင္ျပထားသည့္အတိုင္း clone လုပ္ရမည့္ url ကိုရယူၿပီး terminal မွ တစ္ဆင့္ မိမိ clone လုပ္ယူလိုေသာ location ေအာက္တြင္ clone ျပဳလုပ္ရပါမည္။
 
-![Select](/screenshots/select_account.png?raw=true "Select Account")
-![Select](/screenshots/select_account.png?raw=true "Select Account")
-
+![copy url](http://s22.postimg.org/3l8ej3q8x/copy_cloneurl.png "copy url")
 
 ပထမဆုံး အႀကိမ္ျဖစ္ပါက git clone ျပဳလုပ္ရန္ ေနရာတစ္ခုကို ေရြးခ်ယ္ပါ။ 
 ဥပမာ Desktop
@@ -117,7 +115,7 @@ Fork လုပ္ပီးပါက မိမိကိုယ္ပိုင္�
 ေအာက္ေဖာ္ျပပါ command ကို ရိုက္ၿပီး git clone လုပ္ပါ။ 
 သင္၏ github အေကာင့္ႏွင့္ password ေတာင္းပါလိမ့္မည္။
 
-	git clone git@github.com:fossmyanmar/ubuntu-mm-wiki.git
+	git clone github.com/your-copied-clone-url
 
 ထို႔ေနာက္ ubuntu-mm-wiki ထဲတြင္ section အလုိက္ ထည့္သြင္းထားေသာ File မ်ားကို ျဖည့္စြက္ႏုိင္ၿပီ ျဖစ္ပါသည္။
 
@@ -182,5 +180,24 @@ Code Block အတြက္ စာသားမ်ား ၾကားညွပ္�
 	git commit -a -m "My Blah Blah Session Add"
 	git push origin master
 
+####Original repo သို႔ pull request ပို႔ျခင္း
 
+မိမိျပင္ဆင္ၿပီးေသာ ဖိုင္မ်ားအား github ေပၚသို႔ push ျပဳလုပ္ပီးပါက original repo ႏွင့္ merge ျပဳလုပ္ရန္အတြက္ pull request ပို႔ေပးရန္လိုအပ္ပါသည္။ ေအာက္ေဖာ္ျပပါ ပံုအဆင့္ဆင့္အတိုင္းျပဳလုပ္ႏိုင္ပါသည္။ 
+
+**start pull request**    
+
+![start pull request](http://s24.postimg.org/qc6b4hi9h/image.png)
+    
+    
+**create new pull request**    
+
+![New pull request](http://s15.postimg.org/to38bcpwb/image.png)
+
+**check your changes and create pull request**    
+
+![check and confirm](http://s29.postimg.org/6gkzj3ybb/image.png)
+
+**Leave message and done **    
+
+![leave message](http://s14.postimg.org/mwnubf81d/image.png)
 ****
