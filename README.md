@@ -79,7 +79,7 @@ GIT အေျခခံကို ျမန္မာဘာသာျဖင့္ �
 - https://bitbucket.org
 
 ####Github
-Git Software အေထာက္အပံ့ ျဖစ္ေသာ Github တြင္ သင္ အခမဲ့ အသုံးျပဳႏိုင္ပါသည္။ Private Repo အတြက္ အခေၾကးေငြ ေပးရေသာ္လည္း Public Repo အတြက္ အခမဲ့ အသုံးျပဳႏိုင္ပါသည္။ Public Repo သည္ လူမ်ား ၾကည့္ရႈႏိုင္ျခင္း ဝင္ေရာက္ ကူညီ ျပင္ဆင္ႏိုင္ျခင္းတို႔ေၾကာင့္ ကြ်န္ေတာ္တို႔၏ Wiki Project အတြက္ ပိုမို အဆင္ေျပပါသည္။
+Git Software အေထာက္အပံ့ ျဖစ္ေသာ Github တြင္ သင္ အခမဲ့ အသုံးျပဳႏိုင္ပါသည္။ Private Repo အတြက္ အခေၾကးေငြ ေပးရေသာ္လည္း Public Repo အတြက္ အခမဲ့ အသုံးျပဳႏိုင္ပါသည္။ Public Repo သည္ လူမ်ား ၾကည့္ရႈႏိုင္ျခင္း ဝင္ေရာက္ ကူညီ ျပင္ဆင္ႏိုင္ျခင္းတို႔ေၾကာင့္ ကြ်န္ေတာ္တို႔၏ Wiki Project အတြပိုမို အဆင္ေျပပါသည္။
 
 ####Git မွ Download ရယူရန္ 
 [Download](https://github.com/fossmyanmar/ubuntu-mm-wiki/archive/master.zip) ဆြဲၿပီးရယူႏိုင္သလို Git မွ လည္း ရယူႏုိင္ပါသည္။
@@ -91,6 +91,22 @@ Teminal ကို ဖြင့္ပါ။
 git ကို install ျပဳလုပ္ပါ။
 
 	sudo apt-get install git-core
+
+####စတင္ကူညီရန္အတြက္ ျပင္ဆင္ျခင္း
+
+မိမိစက္တြင္ Git ကို install လုပ္ပီးသြားပီ၊ Github account လဲ ဖြင့္ပီးသြားပီဆိုပါက [Foss Myanmar](https://github.com/fossmyanmar) ေအာက္ရွိ မိမိကူညီလိုေသာ repo ကိုသြားၿပီး ေအာက္ပါပံုအတိုင္း Fork အရင္ဦးဆံုးျပဳလုပ္ေပးရပါမည္။
+
+![Fork](/screenshots/fork.png?raw=true "Fork")
+
+အကယ္၍ အရင္က ဝင္ေရာက္ကူညီဖူးခဲ့ေသာ github organization မ်ားရွိပါက ေအာက္ပါပံုအတိုင္း account ေရြးခိုင္းမည္ျဖစ္ပါသည္။
+
+![Select](/screenshots/select_account.png?raw=true "Select Account")
+
+Fork လုပ္ပီးပါက မိမိကိုယ္ပိုင္အေကာင့္ႏွင့္ fork လုပ္လိုက္ေသာ repo ကိုရရွိမည္ျဖစ္ပါသည္။ ေအာက္ပါပံုတြင္ျပထားသည့္အတိုင္း clone လုပ္ရမည့္ url ကိုရယူၿပီး terminal မွ တစ္ဆင့္ မိမိ clone လုပ္ယူလိုေသာ location ေအာက္တြင္ clone ျပဳလုပ္ရပါမည္။
+
+![Select](/screenshots/select_account.png?raw=true "Select Account")
+![Select](/screenshots/select_account.png?raw=true "Select Account")
+
 
 ပထမဆုံး အႀကိမ္ျဖစ္ပါက git clone ျပဳလုပ္ရန္ ေနရာတစ္ခုကို ေရြးခ်ယ္ပါ။ 
 ဥပမာ Desktop
@@ -167,3 +183,4 @@ Code Block အတြက္ စာသားမ်ား ၾကားညွပ္�
 	git push origin master
 
 
+****
