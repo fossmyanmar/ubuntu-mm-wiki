@@ -1,1 +1,8 @@
-#NEED TRANSLATION
+##Proprietary Extras
+
+မူပိုင္ခြင့္အရ မွတ္ပံုတင္ထားေသာ ထပ္ေဆာင္း package မ်ား
+
+မူပိုင္ခြင့္အရ မွတ္ပံုတင္ထားသည့္ software မ်ားသည္ အင္တာနက္ အသံုးျပဳရာတြင္ 
+မ်ားစြာအေထာက္အကူျပဳပါလိမ့္မည္။ သို႔ေသာ္ လြတ္လပ္စြာ ရယူသံုးစြဲခြင့္မရွိပါ ။ Multimedia Codecs မ်ား၊
+Java Runtime Environment ႏွင့္ Firefox အတြက္ plug-in မ်ားသည္ ထိုကဲ့သို႔ေသာ software မ်ားျဖစ္သည္။
+

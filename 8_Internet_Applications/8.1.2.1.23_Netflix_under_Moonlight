@@ -1,0 +1,4 @@
+#####Netflix under Moonlight
+
+Netflix streaming အတြက္လိုအပ္ခ်က္ႏွစ္ခုမွာ the capabilities of Silverlight 2.0 ႏွင့္ Digital Rights Management modules ျဖစ္သည္။သို႕ေပေသာ္လည္း လက္ရွိအမ်ိဳးအစားျဖစ္ေသာ Moonlight 2.0 တြင္လည္း Silverlight content (including Netflix content) သံုးႏိုင္သည္ ,linux အတြက္ Digital Rights Management modules အား Netfilix မွ အဆင္သင့္မျဖစ္ေသးပါ။ ေက်းဇူးျပဳၿပီး [Netflix](http://www.netflix.com/ContactUs) သို႕တိုက္ရိုက္ဆက္သြယ္ၿပီး သတင္းရယူႏိုင္ပါသည္။သို႕မဟုတ္ [ဤေနရာတြင္](http://www.petitiononline.com/Linflix)  မွတ္ပံုတင္ၿပီး ေတာင္းဆိုႏိုင္ပါသည္။ (Chrome browser အတြက္Google မွျပဳလုပ္ေနေသာ)An HTML5 Netflix plugin မႀကာမီ သံုးစြဲႏိုင္ေတာ့မည္။အျခားေသာ နည္းလမ္းတစ္ခုအေနနဲ႕ Netflix Android app အား virtual
+Android environment တြင္လည္း သံုးစြဲႏိုင္သည္။
