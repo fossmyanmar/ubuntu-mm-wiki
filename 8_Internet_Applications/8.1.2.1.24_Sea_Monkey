@@ -1,0 +1,5 @@
+##SeaMonkey
+
+SeaMonkey (http://www.seamonkey-project.org/) သည္ web browser, IM (IRC) client, Email client,RSS/News reader ႏွင့္ အျခား web development tools မ်ားပါ၀င္ေသာ အင္တာနက္ application တစ္ခုျဖစ္ပါသည္။Mozilla ၏ ထုတ္ကုန္မ်ားကို အေျခခံထားၿပီး၊ Mozilla ၏ မူပိုင္ခြင့္၊ ျဖန္႕ေ၀သံုးစြဲခြင့္မ်ားႏွင့္ ဆက္စပ္ေနသည္။ Thunderbird ႏွင့္ Firefox ကဲ့သို႕ Seamonkey အတြက္ Plugins အေျမာက္အမ်ားရွိသည္။ Seamonkey ကို Install လုပ္ေဆာင္ရန္ Terminal တြင္ ေအာက္ပါအတိုင္းရိုက္ထည့္ပါ။
+
+    sudo apt-get install seamonkey
