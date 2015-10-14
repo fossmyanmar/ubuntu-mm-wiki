@@ -1,0 +1,5 @@
+##IceApe
+
+IceApe (http://en.wikipedia.org/wiki/Naming_conflict_between_Debian_and_Mozilla) သည္ web browser, IM (IRC) client, Email client, RSS/News reader ႏွင့္ web development tools မ်ားပါ၀င္ေသာ open-source အင္တာနက္ application တစ္ခုျဖစ္သည္။ Seamonkey ကို အေျခခံထားၿပီး၊ မူပိုင္ခြင့္ ကန္႕သတ္ထားျခင္းမ်ားမရွိေပ။ Debian project မွေထာက္ပံ႕ေပးထားေသာ application ျဖစ္သည္။ ေနာက္ဆံုး version ကို Install လုပ္ေဆာင္ရန္ Terminal တြင္ ေအာက္ပါအတိုင္းရိုက္ထည့္ပါ။
+
+    sudo apt-get install iceape

@@ -1,0 +1,7 @@
+##KOffice
+
+KOffice(http://www.koffice.org/) သည္ KDE project ၏ တစိတ္တေဒသျဖစ္ၿပီး OpenOffice suite
+၏ လုပ္ေဆာင္ခ်က္မ်ားအား OpenOffice လိုင္စင္ေအာက္မွ မဟုတ္ဘဲ အသံုးျပဳႏိုင္ရန္ျဖစ္သည္။ ဤ 
+program အား မည္သည့္ ubuntu ဗားရွင္းတြင္မဆို အသံုးျပဳႏုိင္သည္။ Install ျပဳလုပ္ရန္
+
+    sudo apt-get install koffice
