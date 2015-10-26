@@ -1,0 +1,6 @@
+{
+    "plugins": [
+        "gitbook-plugin-json"
+    ],
+    "pluginsConfig": {}
+}
